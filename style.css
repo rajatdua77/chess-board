@@ -1,0 +1,13 @@
+body{
+    margin: 0%;
+}
+.container{
+     border: 20px solid #371311;
+     margin: 0%;
+     height: 100vh;
+     border-style: double;
+}
+
+.row{
+    height: 100px;
+}
